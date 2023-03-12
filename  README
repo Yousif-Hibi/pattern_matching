@@ -1,0 +1,14 @@
+208082081
+
+Yousif Hibi   208082081
+
+EX1 – String Pattern Matching Algorithm
+
+README:- a file that has information about the author and the exercise
+
+slist.c :- a file has code to deal with the  double linked list 
+
+
+
+pattern_matching.c :- a file that will to construct the FSM and search for patterns in a text.
+
